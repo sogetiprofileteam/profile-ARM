@@ -4,18 +4,18 @@
     "parameters": {
 
         "webAppHostingPlanName": {
-            "value": "andrew-ado-hero-ci-hp-public"
+            "value": "profile-ci-hp"
         },
 
         "apiHostingPlanName": {
-            "value": "andrew-ado-hero-ci-hp-public"
+            "value": "profile-ci-hp"
         },
 
         "webAppName": {
-            "value": "andrew-ado-hero-ci-web-public"
+            "value": "profile-ci-web"
         },
         "apiName": {
-            "value": "andrew-ado-hero-ci-api-crm"
+            "value": "profile-ci-api"
         },
         "edition": {
             "value": "Basic"
